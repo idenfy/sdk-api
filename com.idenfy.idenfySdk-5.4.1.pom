@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfySdk</groupId>
   <artifactId>com.idenfy.idenfySdk</artifactId>
-  <version>5.4.0</version>
+  <version>5.4.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -213,13 +213,13 @@
     <dependency>
       <groupId>com.github.idenfy</groupId>
       <artifactId>sdk-core</artifactId>
-      <version>5.3.3</version>
+      <version>5.4.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.github.idenfy</groupId>
       <artifactId>sdk-liveness</artifactId>
-      <version>5.3.3</version>
+      <version>5.4.1</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
