@@ -24,7 +24,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfySdk</groupId>
   <artifactId>com.idenfy.idenfySdk</artifactId>
-  <version>9.2.0</version>
+  <version>9.2.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
